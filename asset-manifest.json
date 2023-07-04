@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/edemportfolio/static/css/main.51dff94d.css",
+    "main.js": "/edemportfolio/static/js/main.a6095b0b.js",
+    "static/js/787.863bcb69.chunk.js": "/edemportfolio/static/js/787.863bcb69.chunk.js",
+    "static/media/profile.png": "/edemportfolio/static/media/profile.252101b24e7fd6a3c5a1.png",
+    "static/media/edemresume.pdf": "/edemportfolio/static/media/edemresume.6b3e44950d4fca7166f0.pdf",
+    "index.html": "/edemportfolio/index.html",
+    "main.51dff94d.css.map": "/edemportfolio/static/css/main.51dff94d.css.map",
+    "main.a6095b0b.js.map": "/edemportfolio/static/js/main.a6095b0b.js.map",
+    "787.863bcb69.chunk.js.map": "/edemportfolio/static/js/787.863bcb69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51dff94d.css",
+    "static/js/main.a6095b0b.js"
+  ]
+}

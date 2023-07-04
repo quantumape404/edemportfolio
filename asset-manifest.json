@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/edemportfolio/static/css/main.51dff94d.css",
-    "main.js": "/edemportfolio/static/js/main.2be96d23.js",
+    "main.js": "/edemportfolio/static/js/main.1d353e49.js",
     "static/js/787.863bcb69.chunk.js": "/edemportfolio/static/js/787.863bcb69.chunk.js",
     "static/media/profile.png": "/edemportfolio/static/media/profile.252101b24e7fd6a3c5a1.png",
-    "static/media/edem_resume.pdf": "/edemportfolio/static/media/edem_resume.6b3e44950d4fca7166f0.pdf",
+    "static/media/edem_resume.pdf": "/edemportfolio/static/media/edem_resume.1697c80e2dc4ee5fef2f.pdf",
     "index.html": "/edemportfolio/index.html",
     "main.51dff94d.css.map": "/edemportfolio/static/css/main.51dff94d.css.map",
-    "main.2be96d23.js.map": "/edemportfolio/static/js/main.2be96d23.js.map",
+    "main.1d353e49.js.map": "/edemportfolio/static/js/main.1d353e49.js.map",
     "787.863bcb69.chunk.js.map": "/edemportfolio/static/js/787.863bcb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51dff94d.css",
-    "static/js/main.2be96d23.js"
+    "static/js/main.1d353e49.js"
   ]
 }

@@ -1,0 +1,15 @@
+.App {
+  background-color: #282C34;
+}
+
+
+
+
+
+@media screen and (max-width:600px) {
+  .introColumn {
+      flex: 1 0 100%;
+      padding: 1rem 0;
+  }
+}
+

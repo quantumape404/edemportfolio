@@ -1,0 +1,95 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #1d1d20;
+    background-color: #282C34;
+}
+
+
+
+.resume {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-size: 2rem;
+}
+
+.resume:hover {
+    color: white;
+    scale: 1.5;
+
+}
+
+ .left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+.right {
+    display: flex;
+    list-style: none;
+    margin-right: 3rem;
+}
+    
+.right li {
+    padding: 0.8rem;
+}
+      
+.navbar a {
+    color: grey;
+    text-decoration: none;
+    font-size: small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+.navbar a:hover {
+    color: white;
+    scale: 1.5;
+}
+
+.FaIcon {
+    font-size: 2rem;
+    color: grey;
+}
+
+.FaIcon:hover {
+    color: white;
+    scale: 1.5;
+}
+    
+
+.navIcon {
+    font-size: 2rem;
+}
+
+
+.navItem {
+    position: relative;
+}
+
+.navName {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    color: white;
+    border-radius: 0.25em;
+    font-size: 0.8em;
+    transition: opacity 0.2s ease-in-out;
+}
+  
+.navItem:hover .navName {
+    opacity: 1;
+} 

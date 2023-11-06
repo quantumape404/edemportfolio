@@ -1,0 +1,46 @@
+
+.projects {
+    display: flex;
+    background-color: #282C34;
+    padding: 2rem;
+    color: #eaeafc;
+    box-sizing: border-box;
+    margin-top: 17rem;
+}
+
+
+.eachProject {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 3rem;
+}
+
+.column {
+    flex: 1 0 30%;
+    box-sizing: border-box;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    .column {
+        flex: 1 0 100%;
+    }
+
+    .eachProject {
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-width: 1180px) {
+    .column {
+        flex: 1 0 48%;
+    }
+    .eachProject {
+        margin: 0;
+    }
+
+}

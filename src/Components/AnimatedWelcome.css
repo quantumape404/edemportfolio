@@ -1,0 +1,50 @@
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 12ch; /* or 100%, 12ch for better control */
+    }
+}
+
+@keyframes cursor {
+    50% {
+        border-right-color: transparent;
+    }
+}
+
+@keyframes repeatAnimation {
+    0%, 15%, 100% {
+        width: 0;
+    }
+    30% {
+        width: 12ch; /* or 100%, 12ch for better control */
+    }
+}
+
+.welcomeh1 {
+    font-family: 'Courier New', monospace;
+    font-size: 5rem;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    color: #00FF41;
+    border-right: 0.3em solid #00FF41;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+}
+
+.welcomeh1.visible {
+    animation: 
+        typing 4s steps(40, end) forwards,
+        cursor 0.75s step-end infinite,
+        repeatAnimation 10s steps(40, end) infinite 6s; /* 6s delay to allow the initial animation to finish */
+}
+
+/* For screens smaller than 768px */
+@media (max-width: 767px) {
+    .welcomeh1 {
+        font-size: 2rem;
+    }
+}

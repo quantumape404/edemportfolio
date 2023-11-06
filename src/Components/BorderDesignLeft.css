@@ -1,0 +1,66 @@
+.corner-top-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Default colors */
+.stop-color1 {
+    stop-color: #16d116;
+    transition: stop-color 2s ease-in-out;
+}
+
+.stop-color2 {
+    stop-color: #495a5e;
+    transition: stop-color 2s ease-in-out;
+}
+
+/* Gradient set 1 */
+.gradient-set-1 .stop-color1 {
+    stop-color: #666e7e;
+}
+
+.gradient-set-1 .stop-color2 {
+    stop-color: #52de75;
+}
+
+/* Gradient set 2 */
+.gradient-set-2 .stop-color1 {
+    stop-color: #707a8e;
+}
+
+.gradient-set-2 .stop-color2 {
+    stop-color: #00FF41;
+}
+
+
+/* Gradient set 3 */
+.gradient-set-3 .stop-color1 {
+    stop-color: #282C34;
+}
+
+.gradient-set-3 .stop-color2 {
+    stop-color: #23ce5c;
+}
+
+
+/* Gradient set 4 */
+.gradient-set-4 .stop-color1 {
+    stop-color: #13b644;
+}
+
+.gradient-set-4 .stop-color2 {
+    stop-color: #5c6e7e;
+}
+
+
+/* Gradient set 5 */
+.gradient-set-5 .stop-color1 {
+    stop-color: #158b3d;
+}
+
+.gradient-set-5 .stop-color2 {
+    stop-color: #2c3d47;
+}

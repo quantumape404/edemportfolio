@@ -8,11 +8,11 @@ function WelcomeMessage() {
     <div className="welcome">
         <div className="text">
             <AnimatedWelcome />
-            <p>I'm Edem Ahorlu, a recent Computer Science graduate from Duke University and an international student from Ghana. I have experience in data analysis, web development, and iOS app building. My problem-solving approach combines creativity, innovation, and the latest tools for scalable solutions. As an international student, I possess adaptability and a global perspective. I'm passionate about software development and seek meaningful opportunities to apply my skills. I'm also interested in NLP, LLM, Langchain and Blockchain technologies.
+            <p>I'm Edem Ahorlu, a Computer Science graduate from Duke University and an international student from Ghana. I specialize in full-stack development, mobile development, data analysis, and cloud technologies. My startup experience has honed my ability to innovate and adapt quickly. I'm highly passionate about AI, machine learning, and blockchain technologies. With a global perspective and a drive for continuous learning, I'm eager to take on new challenges and contribute to impactful projects.
             </p>
         </div>
         <div className="image">
-            <img src={profile} alt="Profile" className="profile-image" />
+            <img src={profile} alt="edemahorlu" className="profile-image" />
         </div>
     </div>
   );

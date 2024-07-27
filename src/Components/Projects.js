@@ -16,7 +16,7 @@ function Projects() {
                     title="DealerView360"
                     description="A full-stack cloud application for a car dealership, focusing on user authentication, car model management, and external data integration. Implemented IBM Cloud Functions for CRUD operations and IBM Watson for sentiment analysis, providing insights for dealership management. Designed user-friendly frontend templates to enhance interaction. Containerized with Docker and deployed on a Kubernetes cluster for scalability. Automated testing and deployment with CI/CD pipelines using GitHub Actions."
                     skills={['Django', 'Express.js', 'Flask', 'Node.js', 'Bootstrap', 'IBM Cloudant', 'PostgreSQL']}
-                    githubUrl="https://github.com/Airdm404/DealerView360"
+                    githubUrl="https://github.com/Airdm404/agfzb-CloudAppDevelopment_Capstone"
                 />
                 <ProjectCard
                     title="Smart Home Bot"
@@ -40,7 +40,7 @@ function Projects() {
                     title="ConcertConnect"
                     description="Developed and deployed a full-stack web application for a music band using Flask, Django, and MongoDB. Implemented a microservices architecture for handling pictures and songs, ensuring scalability. Managed data models for concert registration and user management in Django. Deployed on IBM Kubernetes Services with Docker and Kubernetes orchestration. Ensured robust performance with thorough testing and implemented secure user authentication for concert registration."
                     skills={['Flask', 'Django', 'MongoDB','IBM Code Engine','Docker', 'RedHat OpenShift', 'Kubernetes']}
-                    githubUrl="https://github.com/Airdm404/ConcertConnect"
+                    githubUrl="https://github.com/Airdm404/Back-end-Development-Capstone"
                 />
 
 
@@ -61,10 +61,10 @@ function Projects() {
 
             <div className='column'>
                 <ProjectCard
-                    title="LittleLemon Food"
+                    title="LittleLemon"
                     description="Developed a scalable restaurant ordering Android app using Kotlin and Jetpack Compose, featuring a clean architecture for efficient menu management. The app utilized Room Database and Ktor to enable real-time menu updates and offline capabilities, ensuring seamless user experience. Enhanced user interaction with personalized onboarding processes and intuitive dish selection navigation. Focused on maintaining app quality and security through extensive unit and instrumental testing, resulting in a robust and reliable application."
                     skills={['Kotlin', 'Jetpack Compose', 'Room Database', 'Ktor']}
-                    githubUrl="https://github.com/Airdm404/LittleLemonFoodApp"
+                    githubUrl="https://github.com/Airdm404/little-lemon"
                 />
 
 

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/edemportfolio/static/css/main.1da61a86.css",
-    "main.js": "/edemportfolio/static/js/main.c2f1f1a3.js",
-    "static/js/787.863bcb69.chunk.js": "/edemportfolio/static/js/787.863bcb69.chunk.js",
-    "static/media/profiled.jpeg": "/edemportfolio/static/media/profiled.e44f25878cc34feaf3c6.jpeg",
-    "static/media/edemnewResume.pdf": "/edemportfolio/static/media/edemnewResume.b366ea3506ec4fa8363a.pdf",
-    "index.html": "/edemportfolio/index.html",
-    "main.1da61a86.css.map": "/edemportfolio/static/css/main.1da61a86.css.map",
-    "main.c2f1f1a3.js.map": "/edemportfolio/static/js/main.c2f1f1a3.js.map",
-    "787.863bcb69.chunk.js.map": "/edemportfolio/static/js/787.863bcb69.chunk.js.map"
+    "main.css": "/static/css/main.1da61a86.css",
+    "main.js": "/static/js/main.cfc588cc.js",
+    "static/js/787.863bcb69.chunk.js": "/static/js/787.863bcb69.chunk.js",
+    "static/media/profiled.jpeg": "/static/media/profiled.e44f25878cc34feaf3c6.jpeg",
+    "static/media/edemnewResume.pdf": "/static/media/edemnewResume.b366ea3506ec4fa8363a.pdf",
+    "index.html": "/index.html",
+    "main.1da61a86.css.map": "/static/css/main.1da61a86.css.map",
+    "main.cfc588cc.js.map": "/static/js/main.cfc588cc.js.map",
+    "787.863bcb69.chunk.js.map": "/static/js/787.863bcb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1da61a86.css",
-    "static/js/main.c2f1f1a3.js"
+    "static/js/main.cfc588cc.js"
   ]
 }

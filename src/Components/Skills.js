@@ -72,7 +72,6 @@ const technologies = [
     { icon: <FaVuejs />, name: "Vue.js" },
     { icon: <FaAws />, name: "AWS" },
     { icon: <DiGoogleCloudPlatform />, name: "GCP" },
-    { icon: <SiIbmcloud />, name: "IBM" },
 
 ];
 

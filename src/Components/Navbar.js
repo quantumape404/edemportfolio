@@ -1,7 +1,7 @@
 import React from 'react';
 import './Navbar.css';
 import { FaEnvelope, FaLinkedin, FaGithub, FaHome, FaFilePdf } from 'react-icons/fa';
-import resume from '../Assets/edem_ahorlu.pdf';
+import resume from '../Assets/edem_ahorlu_resume.pdf';
 
 const openResume = () => {
     window.open(resume, '_blank');

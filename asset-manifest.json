@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4162f75d.css",
-    "main.js": "/static/js/main.3677c96c.js",
+    "main.js": "/static/js/main.9d0f49a5.js",
     "static/js/787.863bcb69.chunk.js": "/static/js/787.863bcb69.chunk.js",
     "static/media/profiled.jpeg": "/static/media/profiled.e44f25878cc34feaf3c6.jpeg",
     "static/media/edem_ahorlu.pdf": "/static/media/edem_ahorlu.bd4b9c4dd537aa3f2d32.pdf",
     "index.html": "/index.html",
     "main.4162f75d.css.map": "/static/css/main.4162f75d.css.map",
-    "main.3677c96c.js.map": "/static/js/main.3677c96c.js.map",
+    "main.9d0f49a5.js.map": "/static/js/main.9d0f49a5.js.map",
     "787.863bcb69.chunk.js.map": "/static/js/787.863bcb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4162f75d.css",
-    "static/js/main.3677c96c.js"
+    "static/js/main.9d0f49a5.js"
   ]
 }

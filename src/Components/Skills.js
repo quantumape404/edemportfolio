@@ -15,6 +15,10 @@ import {
     FaAngular,
     FaVuejs,
     FaAws,
+    FaGit,
+    FaJira,
+    
+    
     
 } from 'react-icons/fa';
 import { 
@@ -25,7 +29,18 @@ import {
     SiDjango,
     SiGraphql,
     SiExpress,
-    SiIbmcloud
+    SiIbmcloud,
+    SiMicrosoftazure,
+    SiTensorflow,
+    SiPandas,
+    SiNumpy,
+    SiOpenai,
+    SiPostgresql,
+    SiMongodb
+
+
+
+
 } from 'react-icons/si';
 import { FaGolang } from 'react-icons/fa6'
 import { 
@@ -35,6 +50,7 @@ import {
 } from "react-icons/tb";
 
 import { DiGoogleCloudPlatform } from "react-icons/di";
+import { BiLogoSpringBoot } from "react-icons/bi";
 import './Skills.css';
 
 
@@ -61,8 +77,6 @@ const languages = [
 const technologies = [
     { icon: <FaReact />, name: "React" },
     { icon: <TbBrandReactNative />, name: "Native" },
-    { icon: <FaDocker />, name: "Docker" },
-    { icon: <SiKubernetes />, name: "K8s" },
     { icon: <SiFlask />, name: "Flask" },
     { icon: <SiDjango />, name: "Django" },
     { icon: <FaNodeJs />, name: "Node.js" },
@@ -70,9 +84,30 @@ const technologies = [
     { icon: <FaAngular />, name: "Angular.js"},
     { icon: <TbBrandNextjs />, name: "Next.js" },
     { icon: <FaVuejs />, name: "Vue.js" },
+    { icon: <BiLogoSpringBoot />, name: "SpringBoot" },
+
+
     { icon: <FaAws />, name: "AWS" },
     { icon: <DiGoogleCloudPlatform />, name: "GCP" },
     { icon: <SiIbmcloud />, name: "IBM" },
+    { icon: <SiMicrosoftazure />, name: "Azure" },
+    { icon: <SiPostgresql />, name: "PostgreSQL" },
+    { icon: <SiMongodb />, name: "MongoDB" },
+
+
+    { icon: <FaGit />, name: "Git" },
+    { icon: <FaJira />, name: "Jira" },
+    { icon: <FaDocker />, name: "Docker" },
+    { icon: <SiKubernetes />, name: "Kubernetes" },
+
+
+    { icon: <SiTensorflow />, name: "TensorFlow" },
+    { icon: <SiPandas />, name: "Pandas" },
+    { icon: <SiNumpy />, name: "NumPy" },
+    { icon: <SiOpenai />, name: "OpenAI" },
+
+
+
 
 ];
 

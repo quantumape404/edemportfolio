@@ -1,11 +1,6 @@
 import React from 'react';
 import './Navbar.css';
 import { FaEnvelope, FaLinkedin, FaGithub, FaHome, FaFilePdf } from 'react-icons/fa';
-import resume from '../Assets/edemnewResume.pdf';
-
-const openResume = () => {
-    window.open(resume, '_blank');
-};
 
 
 
@@ -19,15 +14,6 @@ const Navbar = () => {
 
 
         <ul className='right'>
-            <li>
-                <div className="navItem">
-                    <button className="resume" onClick={openResume}>
-                        <FaFilePdf className="navIcon" />
-                    </button>
-                    <p className="navName">Resume</p>
-                </div>
-            </li>
-
 
           <li>
             <div  className="navItem">

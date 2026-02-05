@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4162f75d.css",
-    "main.js": "/static/js/main.3b2acdee.js",
+    "main.css": "/static/css/main.e1bfb8d6.css",
+    "main.js": "/static/js/main.4475f9ec.js",
     "static/js/787.863bcb69.chunk.js": "/static/js/787.863bcb69.chunk.js",
     "static/media/profiled.jpeg": "/static/media/profiled.e44f25878cc34feaf3c6.jpeg",
-    "static/media/edem_ahorlu_resume.pdf": "/static/media/edem_ahorlu_resume.64e19ccec5ab44affb3b.pdf",
     "index.html": "/index.html",
-    "main.4162f75d.css.map": "/static/css/main.4162f75d.css.map",
-    "main.3b2acdee.js.map": "/static/js/main.3b2acdee.js.map",
+    "main.e1bfb8d6.css.map": "/static/css/main.e1bfb8d6.css.map",
+    "main.4475f9ec.js.map": "/static/js/main.4475f9ec.js.map",
     "787.863bcb69.chunk.js.map": "/static/js/787.863bcb69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4162f75d.css",
-    "static/js/main.3b2acdee.js"
+    "static/css/main.e1bfb8d6.css",
+    "static/js/main.4475f9ec.js"
   ]
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css';
-import { FaEnvelope, FaLinkedin, FaGithub, FaHome, FaFilePdf } from 'react-icons/fa';
+import { FaEnvelope, FaLinkedin, FaGithub, FaHome } from 'react-icons/fa';
 
 
 
